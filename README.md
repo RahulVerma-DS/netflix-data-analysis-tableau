@@ -19,7 +19,7 @@ This project analyzes Netflix Movies and TV Shows data to identify trends in con
 ## 📁 Files in Repository
 - `Netflix_Dashboard.twbx` → Tableau packaged dashboard
 - `netflix_titles.csv` → Dataset
-- `dashboard.png` → Dashboard preview
+- `Screenshot.png` → Dashboard preview
 
 ## 🔍 Key Insights
 - Netflix has more Movies than TV Shows
